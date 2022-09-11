@@ -1,3 +1,6 @@
+#I've downloaded all the documents necessary to the DIV
+getwd()
+setwd("C:\Users\dell\Desktop\final")
 library(ggplot2)
 library(RColorBrewer)
 NEI <- readRDS("./summarySCC_PM25.rds")
